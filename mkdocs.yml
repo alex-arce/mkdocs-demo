@@ -1,0 +1,9 @@
+site_name: Alea docs demo
+site_url: https://www.alea-soluciones.com/
+nav:
+    - Home: index.md
+    - Architecture: architecture.md
+    - Software: software.md
+    - About: about.md
+theme: material
+#theme: readthedocs
