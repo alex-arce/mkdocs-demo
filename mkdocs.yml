@@ -4,6 +4,7 @@ nav:
     - Home: index.md
     - Architecture: architecture.md
     - Software: software.md
+    - Networking: networking.md
     - Misc: misc.md
     - About: about.md
 theme: material
