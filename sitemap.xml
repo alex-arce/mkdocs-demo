@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://www.alea-soluciones.com/</loc>
+         <loc>https://alex-arce.github.io/mkdocs-demo/</loc>
          <lastmod>2022-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.alea-soluciones.com/about/</loc>
+         <loc>https://alex-arce.github.io/mkdocs-demo/about/</loc>
          <lastmod>2022-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.alea-soluciones.com/architecture/</loc>
+         <loc>https://alex-arce.github.io/mkdocs-demo/architecture/</loc>
          <lastmod>2022-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.alea-soluciones.com/software/</loc>
+         <loc>https://alex-arce.github.io/mkdocs-demo/software/</loc>
          <lastmod>2022-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
