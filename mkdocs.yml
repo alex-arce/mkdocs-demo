@@ -1,5 +1,5 @@
-site_name: Alea docs demo
-site_url: https://www.alea-soluciones.com/
+site_name: Static Docs Demo
+site_url: https://alex-arce.github.io/mkdocs-demo
 nav:
     - Home: index.md
     - Architecture: architecture.md
