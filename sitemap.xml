@@ -16,6 +16,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://alex-arce.github.io/mkdocs-demo/demo/</loc>
+         <lastmod>2022-12-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://alex-arce.github.io/mkdocs-demo/misc/</loc>
          <lastmod>2022-12-22</lastmod>
          <changefreq>daily</changefreq>
