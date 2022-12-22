@@ -12,7 +12,7 @@ Talis patriaque precando admota, mea bona satis aras rapto. Quantaque respondere
 lacertos [aliter](http://similis-sumo.org/nurusvolventia). Solae nec regem
 praecordia, Editus o tamen clipeum praemia atque hirsutaque omnibus duris, et!
 Ordine refugit at Onetor; et merito securus erant nec sanctis animi muros obit
-antiquique et fugam Petraeum!
+antiquique et fugam Petraeum!!
 
 ## Cunarum artem lumina nec sparsum isse certe
 
