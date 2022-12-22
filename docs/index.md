@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# Welcome to Static Docs Demo
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This page is build using [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
 
