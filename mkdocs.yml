@@ -6,6 +6,7 @@ nav:
     - Software: software.md
     - Networking: networking.md
     - Misc: misc.md
+    - Demo: demo.md
     - About: about.md
 theme: material
 #theme: readthedocs
