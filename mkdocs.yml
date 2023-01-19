@@ -8,5 +8,6 @@ nav:
     - Misc: misc.md
     - Demo: demo.md
     - About: about.md
+    - Alea: alea.md
 theme: material
 #theme: readthedocs
