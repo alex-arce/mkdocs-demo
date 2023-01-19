@@ -16,3 +16,7 @@ jobs:
 
       - name: Build site
         run: mkdocs build
+      
+      - name: Deploy to local nginx
+        run: |
+          cp -Rf /home/alea/actions-runner/_work/mkdocs-demo/mkdocs-demo/site /var/www/html
