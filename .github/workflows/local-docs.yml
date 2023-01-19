@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  deploy:
+  local-deploy:
     runs-on: self-hosted
     steps:
       - uses: actions/checkout@v2
