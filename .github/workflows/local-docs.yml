@@ -14,16 +14,5 @@ jobs:
           submodules: "recursive"
           fetch-depth: 0
 
-      - name: Setup Python
-        uses: actions/setup-python@v1
-        with:
-          python-version: '3.9'
-          architecture: 'x64'
-
-      - name: Install dependencies
-        run: |
-          python3 -m pip install --upgrade pip
-          python3 -m pip install mkdocs
-          python3 -m pip install mkdocs-material
       - name: Build site
         run: mkdocs build
