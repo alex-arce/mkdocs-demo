@@ -27,7 +27,3 @@ jobs:
           python3 -m pip install mkdocs-material
       - name: Build site
         run: mkdocs build
-
-      - name: Deploy documentation to local nginx
-        run: |
-          echo "OK"
