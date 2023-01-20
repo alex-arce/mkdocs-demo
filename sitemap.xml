@@ -2,52 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://alex-arce.github.io/mkdocs-demo/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://alex-arce.github.io/mkdocs-demo/aarce/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://alex-arce.github.io/mkdocs-demo/about/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://alex-arce.github.io/mkdocs-demo/alea/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://alex-arce.github.io/mkdocs-demo/architecture/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://alex-arce.github.io/mkdocs-demo/demo/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://alex-arce.github.io/mkdocs-demo/misc/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://alex-arce.github.io/mkdocs-demo/networking/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://alex-arce.github.io/mkdocs-demo/software/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://alex-arce.github.io/mkdocs-demo/vtdemo/</loc>
+         <lastmod>2023-01-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://alex-arce.github.io/mkdocs-demo/zyxel/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
