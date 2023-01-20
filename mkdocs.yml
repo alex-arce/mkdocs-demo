@@ -11,5 +11,6 @@ nav:
     - Alea: alea.md
     - Zyxel: zyxel.md
     - AA: aarce.md
+    - VTDemo: vtdemo.md
 theme: material
 #theme: readthedocs
